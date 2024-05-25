@@ -1,8 +1,4 @@
 /dts-v1/;
-#include <dt-bindings/input/linux-event-codes.h>
-#include <dt-bindings/pwm/pwm.h>
-#include <dt-bindings/usb/pd.h>
-#include "rk3399.dtsi"
 
 / {
 	compatible = "rockchip,rk3399-ai3399c,rockchip,rk3399";
