@@ -7,7 +7,7 @@
 
 / {
 	compatible = "rockchip,android", "rockchip,rk3399-ai3399c-lvds", "rockchip,rk3399";
-	serial-number = "Q0ZX1RFZCO";
+	serial-number = "STVQPGOW8K";
 	model = "Rockchip RK3399 AI3399-C Lvds(TC358775C)";
 	signway,hwid = "01.02.03.04.05.06.07.08";
 
